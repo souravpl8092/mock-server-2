@@ -2,25 +2,46 @@
   "users": [
     {
       "id": 1,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
+      "username": "coreyschafer",
+      "title": "Be Present",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Entertainment",
+      "date": "2017-06-01",
+      "likes": 24,
+      "comments": [
+        { "username": "Jane", "content": "Good One" },
+        { "username": "Bob", "content": "Loved It!" }
+      ]
     },
     {
       "id": 2,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone part-2",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1599,
-      "borrowed": false
+      "username": "Jae Don",
+      "title": "Be Present-2",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Entertainment",
+      "date": "2020-06-01",
+      "likes": 28,
+      "comments": [
+        { "username": "Jane", "content": "Good One" },
+        { "username": "Bob", "content": "Loved It!" }
+      ]
+    }
+  ],
+
+  "register": [
+    {
+      "id": 1,
+      "username": "coreyschafer",
+      "avatar": "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png",
+      "email": "coreyschafer@gmail.com",
+      "password": "coreyschafer12345"
+    },
+    {
+      "id": 2,
+      "username": "Jae Don",
+      "avatar": "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png",
+      "email": "jaedon@gmail.com",
+      "password": "jaedon12345"
     }
   ]
 }
